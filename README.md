@@ -8,4 +8,8 @@ This repository is organized into different tasks that were carried out througho
 * Time Series Feature Extraction
 * Application of different dimensionality reduction and clustering methods
 
+**Contacts**
 
+Miguel Amorim, Author of the dissertation, miguelamorim@ua.pt
+
+Sónia Gouveia, PhD Researcher, Supervisor of the dissertation, sonia.gouveia@ua.pt.
