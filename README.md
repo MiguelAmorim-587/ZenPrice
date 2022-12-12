@@ -7,6 +7,7 @@ This repository is organized into different tasks that were carried out througho
 * Starting with extracting and cleaning of the data
 * Time Series Feature Extraction
 * Application of different dimensionality reduction and clustering methods
+* Analysis of clusters
 
 **Contacts**
 
